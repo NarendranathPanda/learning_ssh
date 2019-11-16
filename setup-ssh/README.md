@@ -10,3 +10,5 @@
    1. Change the .ssh directory mode to 700(executable) and authorized_keys file mode 600(read & write)
 1. Add the Ansible public key to the   "authorized_keys" of the Target Node
 1. Optional (restrict the password authentication )
+
+ref : https://phoenixnap.com/kb/how-to-generate-ssh-key-centos-7
